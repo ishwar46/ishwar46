@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ishwar
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently Studying Computing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me ...
 
 <!---
