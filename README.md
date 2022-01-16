@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently Studying Computing
 - 💞️ I’m looking to collaborate on Project
-- 📫 How to reach me ...
+- 📫 HMU at ishwarura@gmal.com
 
 <!---
 ishwar46/ishwar46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
