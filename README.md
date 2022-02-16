@@ -1,4 +1,4 @@
-Howdy, my name is Ishwar Chaudhary, and I work as a Mobile App Developer and UI/UX Designer. 
+Howdy, I'm is Ishwar Chaudhary, and I work as a Mobile App Developer and UI/UX Designer. 
 I am currently based in Kathmandu, Nepal.
 I'm interested in collaborating on this project, and you can reach me at ishwarura@gmal.com.
 
