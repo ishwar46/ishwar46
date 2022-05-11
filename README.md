@@ -13,6 +13,24 @@ I'm interested in collaborating on this project, and you can reach me at ishwaru
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishwar46&theme=github_dark)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishwar46&theme=github_dark)
  
+ <table>
+<caption>Ishwar Chaudhary</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>Ishwar Chaudhary</td></tr>
+<tr><th scope='row'>Born</th><td><time datetime="2001-11-30 08:00">30 November, 2001</time></td></tr>
+<tr><th scope='row'>Education</th><td>CS</td></tr>
+<tr><th scope='row'>Alma mater</th><td>Coventry University</td></tr>
+<tr><th scope='row'>Nationality</th><td>Nepalese</td></tr>
+<tr><th scope='row'>Occupation</th><td>Mobile Application Developer</td></tr>
+<tr><th scope='row'>Skills</th><td>Xamarin, Flutter, Java, Python, C#, .NET, HTML, CSS, JavaScript</td></tr>
+</tbody>
+</table>
+ 
  ## Tasks
 
 - [x] Born
