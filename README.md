@@ -4,10 +4,7 @@ I'm interested in collaborating on this project, and you can reach me at ishwaru
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ishwar46&&show_icons=true&title_color=32a88e&icon_color=32a852&text_color=daf7dc&bg_color=191919">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar46&layout=compact&theme=radical" />
 
 ## tasks
 
