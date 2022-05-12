@@ -15,6 +15,10 @@ Howdy, I'm [Ishwar Chaudhary](http://ishwarchaudhary.com/), a passionate self-ta
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishwar46&theme=github_dark)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishwar46&theme=github_dark)
  
+ <div align="center">
+<img src="https://komarev.com/ghpvc/?username=ishwar46&&style=flat-square" align="center" />
+</div>
+
  <table>
 <caption>Ishwar Chaudhary</caption>
 <thead>
