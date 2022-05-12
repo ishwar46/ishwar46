@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=13ADC3&lines=Hello%2C+There!!+%F0%9F%91%8B;This+is+Ishwar...;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-Howdy, I'm [Ishwar Chaudhary](http://ishwarchaudhary.com/), a passionate self-taught mobile application developer, UI/UX Designer and a freelance software engineer from Nepal. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Namaste 🙏, I'm [Ishwar Chaudhary](http://ishwarchaudhary.com/), a passionate self-taught mobile application developer, UI/UX Designer and a freelance software engineer from Nepal. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ishwar46&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
  
