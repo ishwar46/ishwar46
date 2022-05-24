@@ -37,6 +37,10 @@ Namaste 🙏, I'm [Ishwar Chaudhary](http://ishwarchaudhary.com/), a passionate 
 <tr><th scope='row'>Skills</th><td>Xamarin, Flutter, Java, Python, C#, .NET, HTML, CSS, JavaScript</td></tr>
 </tbody>
 </table>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
  
  ## Tasks
 
