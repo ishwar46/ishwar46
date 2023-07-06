@@ -34,7 +34,7 @@ Namaste 🙏, I'm [Ishwar Chaudhary](http://ishwarchaudhary.com/)
 <tr><th scope='row'>Education</th><td>CS</td></tr>
 <tr><th scope='row'>Alma mater</th><td>Coventry University</td></tr>
 <tr><th scope='row'>Nationality</th><td>Nepalese</td></tr>
-<tr><th scope='row'>Occupation</th><td>Jr. Mobile Application Developer</td></tr>
+<tr><th scope='row'>Occupation</th><td>Mobile Application Developer</td></tr>
 <tr><th scope='row'>Skills</th><td>Xamarin, Flutter, Java, Python, C#, .NET, HTML, CSS, JavaScript</td></tr>
 </tbody>
 </table>
