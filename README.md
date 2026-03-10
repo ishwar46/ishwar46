@@ -1,61 +1,105 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=13ADC3&lines=Hello%2C+There!!+%F0%9F%91%8B;This+is+Ishwar...;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=13ADC3&lines=Namaste+%F0%9F%99%8F+I'm+Ishwar;Full+Stack+Engineer+%F0%9F%9A%80;Project+Manager+%F0%9F%93%8B;Building+things+that+matter.)](https://git.io/typing-svg)
 
-Namaste 🙏, I'm [Ishwar Chaudhary](http://ishwarchaudhary.com/)
-<!-- a passionate mobile application developer, UI/UX Designer and a freelance software engineer from Nepal. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. -->
+## About Me
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ishwar46&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
- 
-<img src="https://github-readme-stats.vercel.app/api?username=ishwar46&&show_icons=true&title_color=32a88e&icon_color=32a852&text_color=daf7dc&bg_color=191919">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar46&layout=compact&theme=radical" />
+I'm **Ishwar Chaudhary** — a Full Stack Engineer & Project Manager based in Kathmandu, Nepal 🇳🇵. I build scalable platforms, ship production software, and lead engineering teams to deliver real impact.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-</a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></p>
+Currently crafting enterprise-grade web and mobile solutions in the **disability services & healthcare** space for the Australian market. I care deeply about clean architecture, great UX, and writing code that future-me won't hate.
 
- 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishwar46&theme=github_dark)
- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishwar46&theme=github_dark)
- 
- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ishwar46&&style=flat-square" align="center" />
+When I'm not shipping features, you'll find me exploring **Sanskrit literature & Hindu philosophy**, reading up on **Nepali history**, planning my next trip.
+
+```text
+🏢  Full Stack Engineer & Project Manager @ LeftClickTech
+🎓  Masters of IT @ KIST College, Purbanchal University | B.Sc. CS — Coventry University
+🌏  Kathmandu, Nepal
+⚡  Fun fact: I think in Flutter and dream in Node.js
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend & Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ishwar46&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
- <table>
-<caption>Ishwar Chaudhary</caption>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row'>Name</th><td>Ishwar Chaudhary</td></tr>
-<tr><th scope='row'>Born</th><td><time datetime="2001-11-30 08:00">30 November, 2001</time></td></tr>
-<tr><th scope='row'>Education</th><td>CS</td></tr>
-<tr><th scope='row'>Alma mater</th><td>Coventry University</td></tr>
-<tr><th scope='row'>Nationality</th><td>Nepalese</td></tr>
-<tr><th scope='row'>Occupation</th><td>Mobile Application Developer</td></tr>
-<tr><th scope='row'>Skills</th><td>Flutter, Xamarin, Java, Python, C#, .NET, REST APIs, Firebase, HTML, CSS, JavaScript</td></tr>
-</tbody>
-</table>
+<div align="center">
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishwar46&theme=github_dark" alt="Productive Time" />
+</div>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishwar46&theme=github_dark" alt="Profile Details" />
+</div>
 
- 
- ## Tasks
+---
+
+## 🧭 Life Checklist
 
 - [x] Born
+- [x] Survived CS degree
 - [x] Got a job
-- [ ] Married
-- [ ] Have children
-- [ ] Die
+- [x] Got promoted to lead a team
+- [ ] Build something millions use
+- [ ] Trek every major trail in Nepal
+- [ ] Read the Vedas in original Sanskrit
+- [ ] ~~Get 8 hours of sleep~~ *(unlikely)*
 
+---
 
+## 🤝 Let's Connect
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ishwartharu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ishwartharu" /></a></p><br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwar-chaudhary/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://ishwarchaudhary.com/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ishwartharu)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ishwar46&style=flat-square&color=13ADC3" />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
 <!---
 ishwar46/ishwar46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
