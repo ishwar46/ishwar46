@@ -17,7 +17,7 @@ When I'm not shipping features, you'll find me exploring **Sanskrit literature &
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -58,7 +58,7 @@ When I'm not shipping features, you'll find me exploring **Sanskrit literature &
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ishwar46&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -74,7 +74,7 @@ When I'm not shipping features, you'll find me exploring **Sanskrit literature &
 
 ---
 
-## 🧭 Life Checklist
+## Life Checklist
 
 - [x] Born
 - [x] Survived CS degree
@@ -87,7 +87,7 @@ When I'm not shipping features, you'll find me exploring **Sanskrit literature &
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwar-chaudhary/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://ishwarchaudhary.com/)
@@ -96,7 +96,7 @@ When I'm not shipping features, you'll find me exploring **Sanskrit literature &
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ishwar46&style=flat-square&color=13ADC3" />
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
