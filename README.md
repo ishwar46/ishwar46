@@ -9,7 +9,7 @@ Currently crafting enterprise-grade web and mobile solutions in the **disability
 When I'm not shipping features, you'll find me exploring **Sanskrit literature & Hindu philosophy**, reading up on **Nepali history**, planning my next trip.
 
 ```text
-🏢  Full Stack Engineer & Project Manager @ LeftClickTech
+🏢  Full Stack Engineer & Project Manager @ LeftClickTech Australia
 🎓  Masters of IT @ KIST College, Purbanchal University | B.Sc. CS — Coventry University
 🌏  Kathmandu, Nepal
 ⚡  Fun fact: I think in Flutter and dream in Node.js
