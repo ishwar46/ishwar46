@@ -6,7 +6,7 @@ I'm **Ishwar Chaudhary** — a Full Stack Engineer & Project Manager based in Ka
 
 Currently crafting enterprise-grade web and mobile solutions in the **disability services & healthcare** space for the Australian market. I care deeply about clean architecture, great UX, and writing code that future-me won't hate.
 
-When I'm not shipping features, you'll find me exploring **Sanskrit literature & Hindu philosophy**, reading up on **Nepali history**, planning my next trip.
+When I'm not shipping features, you'll find me exploring **Hindu philosophy**, reading up on **Nepali history**, planning my next trip.
 
 ```text
 🏢  Full Stack Engineer & Project Manager @ LeftClickTech Australia
